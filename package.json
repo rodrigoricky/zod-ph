@@ -1,6 +1,6 @@
 {
   "name": "zod-ph",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Philippine‑ready Zod validators, formatters, and utilities for TypeScript apps",
   "license": "MIT",
   "author": "rodrigoricky",
