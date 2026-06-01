@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "Philippine‑ready Zod validators, formatters, and utilities for TypeScript apps",
   "license": "MIT",
-  "author": "zod-ph contributors",
+  "author": "rodrigoricky",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/zod-ph"
+    "url": "https://github.com/rodrigoricky/zod-ph"
   },
   "keywords": [
     "zod",
